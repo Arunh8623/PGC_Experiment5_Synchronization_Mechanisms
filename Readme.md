@@ -176,6 +176,7 @@ Keep the source files and this README in the repository, for example:
 
 ```text
 .
+├── screenshots-results
 ├── race.c
 ├── critical.c
 ├── atomic.c
