@@ -185,5 +185,3 @@ Keep the source files and this README in the repository, for example:
 ├── compare_sync.c
 └── README.md
 ```
-
-You can also add screenshots of the terminal output to document the actual run.
